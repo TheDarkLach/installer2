@@ -5,7 +5,7 @@ import patoolib
 import os
 
 # Define the URL for the direct download link
-url = "https://www.dropbox.com/s/b1mqj9b8q9ira0u/MBL.rar?dl=1"
+url = "https://www.dropbox.com/s/48bz45xi1kafx0k/MBL.rar?dl=1"
 
 if platform.system() == "Windows":
     destination_dir = os.path.expanduser("~\\AppData\\Roaming\\.minecraft\\versions")
